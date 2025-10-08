@@ -1,6 +1,6 @@
 # BLECustomizableController Privacy Policy
 Effective Date: October 4, 2025
-Lisica Game Ltd. Co. (“we,” “our,” or “us”) values your privacy.
+Lisica Game Ltd. Co. values your privacy.
 
 Information We Collect
 We do not collect, store, or share any personal or non-personal data from users of this App.
