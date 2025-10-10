@@ -15,5 +15,5 @@ Contact Information
 If you have any questions about this Privacy Policy, please contact us at:
 Lisica Game Ltd. Co.
 
-#Support Information
+# Support Information
 For any questions or suggestions for improving user experience please contact us at: lisicagameltd.co@gmail.com
